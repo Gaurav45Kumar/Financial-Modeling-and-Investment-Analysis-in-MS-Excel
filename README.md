@@ -1,4 +1,4 @@
-# Financial Modeling and Investment Analysis Case Study
+# Financial Modeling and Investment Analysis
 
 ## Overview
 This project involves constructing a comprehensive financial model and conducting investment analysis for a global technology company. The objective is to simulate the responsibilities of an equity analyst by assessing the company’s financial performance and forecasting its future outlook.
