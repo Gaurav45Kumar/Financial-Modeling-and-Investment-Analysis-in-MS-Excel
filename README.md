@@ -2,11 +2,6 @@
 
 This repository contains a complete 5-year financial model constructed using a structured approach based on a real case study. The model includes projections for the income statement, balance sheet, and cash flow statement with clearly defined assumptions.
 
-## Source
-
-This case study is based on publicly available material from WallStreetMojo (2024).  
-Link: https://www.wallstreetmojo.com
-
 ## Steps Followed in the Financial Modeling Process
 
 1. Creating the financial model structure
